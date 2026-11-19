@@ -1,0 +1,12 @@
+{
+  "name": "vite-hmr-orphan-file-entry-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "steps": "node scripts/steps.mjs"
+  },
+  "devDependencies": {
+    "vite": "8.3.8"
+  }
+}
